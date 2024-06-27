@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348667322782",
+    "project_id": "admitanalytics-edab3",
+    "storage_bucket": "admitanalytics-edab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348667322782:android:257dc6b4567e68f887f68f",
+        "android_client_info": {
+          "package_name": "com.mycompany.admitanalytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-bZpwfoDRosiV5vKpb8ZzIVVoWI1xFWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
